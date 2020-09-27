@@ -109,7 +109,7 @@ margin-left: calc((100% / 12) * 10);
 margin-left: calc((100% / 12) * 11);
 }
 
-@media screen (min-width: 768px) {
+@media screen and (min-width: 768px) {
 
     .col-md-1 {
         width: calc(100% / 12);
